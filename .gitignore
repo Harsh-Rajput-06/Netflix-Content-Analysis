@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter virtual documents
+virtual_documents/
+
+# Anaconda projects
+anaconda_projects/
+
+# Environment folders
+venv/
+env/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Power BI cache
+*.pbix.tmp
+
+# Ignore raw dataset if needed
+# Netflix Data/netflix_titles.csv
