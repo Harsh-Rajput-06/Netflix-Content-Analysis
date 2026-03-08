@@ -92,13 +92,6 @@ The dashboard includes:
 * Geographic distribution using a map
 
 ---
-
-# Dashboard Preview
-
-![Dashboard](Dashboard%20Image/dashboard_preview.png)
-
----
-
 # Key Insights
 
 * Movies make up approximately **65% of Netflix's content catalog**.
